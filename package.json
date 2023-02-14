@@ -1,0 +1,24 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oswi142/IngDeSoft.git"
+  },
+  "author": "Oswaldo Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oswi142/IngDeSoft/issues"
+  },
+  "homepage": "https://github.com/Oswi142/IngDeSoft#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
